@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8010002638023624550}
   - component: {fileID: 4127177857677527311}
   - component: {fileID: 5974104267514361178}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dining_Room_Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
